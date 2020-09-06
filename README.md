@@ -1,5 +1,5 @@
 ### Hi! I am Aishika Saha.👋
-
+</p>🌱 I’m currently learning Data Science </p>
 <!--
 **aishikasaha/aishikasaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
