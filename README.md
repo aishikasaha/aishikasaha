@@ -1,5 +1,5 @@
 ### Hi! I am Aishika Saha.👋
-</p>🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science
 - ⚙️ I use daily: `.ipynb`, `.js`, `.php`, `.xml`, `.html`, `.scss`, `.psd`, `.py`, `.sql`
 - 💅 Active community member of: **Technology and Gaming Club, Vellore**
 - 🌱 Learning more about and studying: **Computer Science**
@@ -7,7 +7,7 @@
 - 📫 Reach me asap: <a href="https://www.linkedin.com/in/aishika-saha-998829180/">LinkedIn</a> or aishisaha1@gmail.com
 - 💜 Interests: huge Henry Cavil fan, graphic design, foodie, 🐶
 - 😄 Passionate about deep learning and it's practical uses.
-- ⚡ Fun fact: I make world's best coffee</p>
+- ⚡ Fun fact: I make world's best coffee
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/aishika-saha-998829180/">LinkedIn</a>
