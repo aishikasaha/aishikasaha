@@ -1,5 +1,5 @@
 ### Hi! I am Aishika Saha.👋
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently an SDE at Rakuten
 - ⚙️ I use daily: `.ipynb`, `.js`, `.php`, `.xml`, `.html`, `.scss`, `.psd`, `.py`, `.sql`
 - 💅 Active community member of: **Technology and Gaming Club, Vellore**
 - 🌱 Learning more about and studying: **Computer Science**
