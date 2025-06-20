@@ -104,23 +104,28 @@ I'm a results-driven professional with a unique blend of **software engineering*
 
 ## 💻 Featured Projects
 
-### 🚀 NASA Data Explorer
-**Tech Stack:** React, Node.js, Express, NASA APIs, Jest, Supertest
-A full-stack space exploration platform providing real-time access to NASA's astronomical data
+## 🚀 NASA Data Explorer
+**Tech Stack:** React, Node.js, Express, NASA APIs, Jest, Supertest  
+[View on GitHub](https://github.com/aishikasaha/nasa-react-express-app)
+
+A full-stack space exploration platform providing real-time access to NASA's astronomical data:
 - Integrated multiple NASA APIs (APOD, Mars Rover Photos, Near Earth Objects, Image Library)
 - Built comprehensive Express backend with robust error handling, CORS, rate limiting, and security middleware
 - Developed responsive React frontend with dynamic filtering, date selection, and interactive photo galleries
-- Implemented extensive test suite with 95%+ coverage using Jest and Supertest for API integration testing
-- Deployed with separate frontend/backend architecture on Render with optimized CORS configuration
-- Features include: daily astronomy pictures, Mars rover photo exploration, asteroid tracking, and NASA media search
+- Implemented extensive test suite with 95%+ coverage using Jest and Supertest
+- Deployed with separate frontend/backend architecture on Render
+- Features: Daily astronomy pictures, Mars rover exploration, asteroid tracking, and NASA media search
 
-### 🧮 Scala Calculator REST API
-**Tech Stack:** Scala, Akka HTTP, spray-json, sbt
-An advanced mathematical expression evaluator with comprehensive REST API capabilities
-- Built stack-based algorithm for complex expression parsing with parentheses and operator precedence
-- Implemented comprehensive test suite with Akka HTTP TestKit achieving full coverage
-- Designed scalable microservice architecture with proper error handling and JSON serialization
-- Features advanced expression evaluation: `(1+(4+5+2)-3)+(6+8)`, unary operations, and decimal support
+## 🧮 Scala Calculator REST API
+**Tech Stack:** Scala, Akka HTTP, spray-json, sbt  
+[View on GitHub](https://github.com/aishikasaha/scala-calculator-api)
+
+An advanced mathematical expression evaluator with comprehensive REST API capabilities:
+- Built stack-based algorithm for complex expression parsing with operator precedence
+- Implemented comprehensive test suite with Akka HTTP TestKit (100% coverage)
+- Designed scalable microservice architecture with JSON serialization
+- Features: Nested parentheses, unary operations, decimal support (e.g. `(1+(4+5+2)-3)+(6+8)`)
+
 
 ### 🌍 Trip Adviser Platform
 **Tech Stack:** Node.js, Express, MongoDB, REST APIs
