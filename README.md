@@ -1,7 +1,7 @@
 # Hi there, I'm Aishika Saha! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+Product+Manager;Masters+Student+at+UCD+Dublin;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Associate+Software+Engineer;Masters+Student+at+UCD+Dublin;Building+Data-Driven+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,56 +14,65 @@
 
 ## 🚀 About Me
 
-I'm a results-driven professional with a unique blend of **software engineering** and **product management** experience. Currently pursuing my Masters in Management at University College Dublin, I bring hands-on expertise in building scalable systems and leading cross-functional teams.
+I'm a results-driven **Associate Software Engineer** with extensive experience in building **data-driven solutions** and **scalable systems**. Currently pursuing my Masters in Management at University College Dublin, I specialize in data pipeline development, analytics, and backend engineering with a focus on **preventing revenue losses** and optimizing system performance.
 
 ### 🎯 Quick Facts
-- 🔭 **Previous Role:** Associate Product Manager/Software Engineer at Rakuten Symphony
+- 🔭 **Previous Role:** Associate Software Engineer at Rakuten Symphony
 - 🎓 **Current:** Masters in Management at UCD Dublin (Aug 2024 - Aug 2025)
-- 💡 **Specialization:** REST APIs, Microservices, Product Strategy, and Team Leadership
-- 📊 **Impact:** Handled 500K+ daily API requests, reduced system downtime by 30%
-- 🌱 **Learning:** Strategic Management, Business Information Systems, Corporate Finance
+- 💡 **Specialization:** Data Pipelines, Analytics, REST APIs, Microservices Architecture
+- 📊 **Impact:** Prevented $4M+/month revenue losses, served 5M+ customers, achieved 85%+ code coverage
+- 🌱 **Learning:** Strategic Management, Business Information Systems, Leadership & Organizational Behaviour
 
 ## 💼 Professional Experience
 
 <details>
-<summary><b>Rakuten Symphony</b> | Associate Product Manager/Software Engineer (May 2022 - July 2024)</summary>
+<summary><b>Rakuten Symphony</b> | Associate Software Engineer (May 2022 - July 2024)</summary>
 
 ### 🎯 Key Achievements
-- **🚀 API Development & Scalability**
-  - Led development of high-performance REST APIs handling **500,000+ requests/day**
-  - Enhanced platform efficiency and expanded product capabilities
+- **💰 Revenue Protection**
+  - Led development of **data-driven revenue assurance model** with team of 3 engineers
+  - Prevented potential losses of **$4M+/month** through advanced data analytics
   
-- **🔐 Security & Compliance**
-  - Implemented OAuth 2.0 authentication protocols
-  - Reduced unauthorized access by **40%**
+- **🏗️ Data Infrastructure & Analytics**
+  - Managed large-scale **data platform** for telecom solutions using Java SpringBoot and Python
+  - Built and maintained **data analytics tools** for backend development teams
+  - Improved **data quality, reporting accuracy, and development velocity** across organization
   
-- **⚡ Process Optimization**
-  - Introduced CI/CD pipelines and automated testing frameworks
-  - Cut production issues by **80%** and halved time-to-market
+- **🔌 API Development & Integration**
+  - Designed and implemented **4 REST APIs** for data integration and reporting
+  - Integrated **Revenue Assurance Model** with broader data ecosystem (12 microservices)
+  - Employed **gRPC, Protocol Buffers, and Spring Cloud** for cross-platform communication
   
-- **👥 Team Leadership**
-  - Mentored 4+ junior engineers
-  - Established best practices reducing critical bugs by **25%**
+- **📊 Monitoring & Quality Assurance**
+  - Implemented comprehensive **observability and monitoring framework**
+  - Used Prometheus, OpenTelemetry, and SLF4J for distributed tracing
+  - Reduced **MTTD by 40%** and **MTTR by 50%**
+  - Established **data quality standards** using SonarQube, maintaining **85%+ code coverage**
   
-- **📉 Risk Management**
-  - Identified and mitigated stability risks
-  - Reduced system downtime by **30%** through performance tuning
+- **👥 Cross-Functional Collaboration**
+  - Collaborated with engineering teams to design **data architecture and analytics solutions**
+  - Contributed to technical roadmaps for scalability and performance optimization
 </details>
 
 <details>
-<summary><b>Previous Internships</b> (2019-2022)</summary>
+<summary><b>Rakuten India</b> | Technical Intern (Nov 2021 - May 2022)</summary>
 
-### Rakuten India | Technical Intern
-- Developed REST APIs and Angular 8 UIs for OSS/BSS platforms
-- Streamlined data workflows and improved user engagement
+### Key Contributions
+- Developed and maintained **backend data services and analytics pipelines** using Python and Java
+- Collaborated with cross-functional teams to design systems and build **data processing tools**
+- Improved development efficiency across multiple projects using Linux and databases
+- Gained hands-on experience with **Service Oriented Architecture** and data workflows
+- Worked on scalable backend solutions and microservices integration for data processing
+</details>
 
-### The Sparks Foundation | Web Development Intern
-- Built secure backend for donation platform using PHP/MySQL
-- Implemented authentication, transaction handling, and input validation
+<details>
+<summary><b>The Sparks Foundation</b> | Backend Python Developer (June 2021 - July 2021)</summary>
 
-### Technology and Gaming Club - VIT | Product Lead
-- Led development of JavaFX desktop tools for event automation
-- Designed game logic systems and integrated APIs for real-time interaction
+### Project Highlights
+- Built **backend data processing systems** using Python for donation platform
+- Focused on **data analytics, scalability, and performance optimization** for user engagement tracking
+- Designed elegant solutions for **data-driven content generation** and user engagement analytics
+- Ensured compliance with platform policies and **data governance requirements**
 </details>
 
 ## 🛠️ Technical Skills
@@ -72,31 +81,40 @@ I'm a results-driven professional with a unique blend of **software engineering*
 <tr>
 <td valign="top" width="50%">
 
-### Backend Development
+### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Backend & Data Technologies
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microservices&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+### Data & Analytics Tools
+![Data Lakes](https://img.shields.io/badge/Data_Lakes-FF9500?style=for-the-badge&logo=datalakes&logoColor=white)
+![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-4CAF50?style=for-the-badge&logo=etl&logoColor=white)
+![Analytics](https://img.shields.io/badge/Analytics-9C27B0?style=for-the-badge&logo=analytics&logoColor=white)
+![Data Processing](https://img.shields.io/badge/Data_Processing-2196F3?style=for-the-badge&logo=dataprocessing&logoColor=white)
 
-### Methodologies
-![Agile](https://img.shields.io/badge/Agile-0095D5?style=for-the-badge&logo=agile&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
+### Databases & Messaging
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### Tools & Infrastructure
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 </td>
 </tr>
@@ -104,42 +122,26 @@ I'm a results-driven professional with a unique blend of **software engineering*
 
 ## 💻 Featured Projects
 
-## 🚀 NASA Data Explorer
+### 🚀 NASA Data Explorer
 **Tech Stack:** React, Node.js, Express, NASA APIs, Jest, Supertest  
 [View on GitHub](https://github.com/aishikasaha/nasa-react-express-app)
 
-A full-stack space exploration platform providing real-time access to NASA's astronomical data:
+A full-stack space exploration platform providing real-time access to NASA's astronomical data with **AI-powered data analysis** using Hugging Face models:
 - Integrated multiple NASA APIs (APOD, Mars Rover Photos, Near Earth Objects, Image Library)
-- Built comprehensive Express backend with robust error handling, CORS, rate limiting, and security middleware
-- Developed responsive React frontend with dynamic filtering, date selection, and interactive photo galleries
-- Implemented extensive test suite with 95%+ coverage using Jest and Supertest
-- Deployed with separate frontend/backend architecture on Render
-- Features: Daily astronomy pictures, Mars rover exploration, asteroid tracking, and NASA media search
+- Implemented **microservices architecture** with Express backend featuring advanced **data visualization with analytics dashboards**
+- Built comprehensive **data pipeline testing suite** with 95%+ coverage using Jest and Supertest
+- Developed **real-time data processing and insights** with responsive design optimized for performance
+- Features: **Real-time space data** processing, analytics dashboards, and NASA media search with rate limiting and security middleware
 
-## 🧮 Scala Calculator REST API
+### 🧮 Scala Calculator REST API  
 **Tech Stack:** Scala, Akka HTTP, spray-json, sbt  
 [View on GitHub](https://github.com/aishikasaha/scala-calculator-api)
 
-An advanced mathematical expression evaluator with comprehensive REST API capabilities:
-- Built stack-based algorithm for complex expression parsing with operator precedence
-- Implemented comprehensive test suite with Akka HTTP TestKit (100% coverage)
-- Designed scalable microservice architecture with JSON serialization
-- Features: Nested parentheses, unary operations, decimal support (e.g. `(1+(4+5+2)-3)+(6+8)`)
-
-
-### 🌍 Trip Adviser Platform
-**Tech Stack:** Node.js, Express, MongoDB, REST APIs
-A scalable web platform enabling users to share and explore travel experiences
-- Implemented RESTful APIs for CRUD operations
-- Built advanced search and filtering features
-- Integrated location-based services and user reviews
-
-### 📝 Blog API System
-**Tech Stack:** Spring Boot, REST APIs, OAuth
-A comprehensive blogging platform with authentication and interaction features
-- Managed end-to-end development process
-- Implemented OAuth authentication
-- Designed intuitive UI/UX for seamless user experience
+An advanced **data-driven blog application** with comprehensive backend development:
+- Managed end-to-end development of **data-driven blog application** using SpringBoot and REST APIs
+- Implemented **OAuth authentication** for secure user management and **content analytics tracking**
+- Designed seamless **UI/UX design patterns** with **database integration and reporting dashboards**
+- Built for optimal user experience and **data-driven insights** persistence
 
 ## 🎓 Education
 
@@ -148,14 +150,29 @@ A comprehensive blogging platform with authentication and interaction features
 - Global Strategic Management
 - Business Information Systems Management
 - Leadership and Organizational Behaviour
-- Project Management & Corporate Finance
+- Project Management
 
 ### 🏫 Vellore Institute of Technology
 **B.Tech in Computer Science** (July 2018 - Aug 2022)
-- Data Structures and Algorithms
-- Operating Systems & Database Management
-- Computer Networks & Artificial Intelligence
-- Web Programming
+- Data Structures & Algorithms, Operating Systems
+- Database Management, Computer Networks
+- Artificial Intelligence, Web Programming
+
+## 🏆 Key Achievements
+
+<div align="center">
+  
+| Achievement | Impact |
+|-------------|--------|
+| 💰 **Revenue Protection** | Prevented $4M+/month potential losses |
+| 📊 **Data-Driven Solutions** | Led team of 3 engineers in revenue assurance model |
+| 🔧 **System Performance** | Reduced MTTD by 40% and MTTR by 50% |
+| 🧪 **Code Quality** | Maintained 85%+ code coverage across data processing projects |
+| 👥 **Team Leadership** | Led cross-functional team of 3 engineers in data platform solutions |
+| 🏗️ **Scalable Systems** | Built scalable data systems serving 5+ million customers |
+| 📈 **Research Impact** | Published research in concurrent programming and data processing |
+
+</div>
 
 ## 📊 GitHub Stats
 
@@ -164,24 +181,9 @@ A comprehensive blogging platform with authentication and interaction features
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aishikasaha&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🏆 Professional Highlights
-
-<div align="center">
-  
-| Metric | Achievement |
-|--------|-------------|
-| 🚀 API Performance | 500,000+ requests/day |
-| 🔒 Security Enhancement | 40% reduction in unauthorized access |
-| ⚡ Deployment Speed | 50% faster release cycles |
-| 🐛 Quality Improvement | 80% reduction in production issues |
-| 📉 System Reliability | 30% reduction in downtime |
-| 👥 Team Impact | Mentored 4+ developers |
-
-</div>
-
 ## 🤝 Let's Connect!
 
-I'm always interested in discussing technology, product management, and innovative solutions. Feel free to reach out!
+I'm passionate about **data engineering**, **backend development**, and building **scalable solutions** that drive business impact. Always interested in discussing technology, data architecture, and innovative engineering solutions!
 
 <div align="center">
   
