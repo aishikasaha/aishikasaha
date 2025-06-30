@@ -66,13 +66,15 @@ I'm a results-driven **Associate Software Engineer** with extensive experience i
 </details>
 
 <details>
-<summary><b>The Sparks Foundation</b> | Backend Python Developer (June 2021 - July 2021)</summary>
+<summary><b>The Sparks Foundation</b> | Java Developer Intern (June 2021 - July 2021)</summary>
 
 ### Project Highlights
-- Built **backend data processing systems** using Python for donation platform
-- Focused on **data analytics, scalability, and performance optimization** for user engagement tracking
-- Designed elegant solutions for **data-driven content generation** and user engagement analytics
-- Ensured compliance with platform policies and **data governance requirements**
+- Designed and developed secure backend architecture using
+object-oriented programming principles, design patterns, and
+microservices approach.
+- Implemented multi-threaded modules for payment processing with
+robust debugging, error handling capabilities, and RESTful API
+integration.
 </details>
 
 ## 🛠️ Technical Skills
